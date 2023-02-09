@@ -1,6 +1,9 @@
 # flutter_ui_desing_demo
 
-A new Flutter project.
+This repository provides you with the user interface design for two pages of a real estate application. Please refer to the image below for details.
+
+<img src="https://github.com/prashantpag26/flutter_ui_desing_demo/blob/master/Screenshot_20230209_121338.png?raw=true" width="200" height="400"/>
+
 
 ## Getting Started
 
